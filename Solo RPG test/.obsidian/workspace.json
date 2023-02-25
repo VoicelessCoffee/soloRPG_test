@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "f80055545605c92d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a536e6bf786e7424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03fb93d730f9c485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tewst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7732cfc9d3d52067",
+    "type": "split",
+    "children": [
+      {
+        "id": "49606f1b74165aa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc1bb33ac64b69c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f203e0691bbd27c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54291efc2ccb0b99",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "592fd75c03463fe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec329ac6116c1fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088336f6912a7a7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tewst.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7948571313d5f810",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tewst.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d81f6c7762238e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85b2813d7513c69a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tewst.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "03fb93d730f9c485",
+  "lastOpenFiles": [
+    "tewst.md"
+  ]
+}
